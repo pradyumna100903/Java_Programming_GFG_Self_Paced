@@ -5,4 +5,5 @@ Repository Containing Exercises which are part of Java Self Paced Programming Co
 3. print GFG in Java (PrintGFG.java)
 4. Concatenate 2 Integers (Conacatenate.java)
 5. Swap 2 Numbers using Temp as well as operator (Swap.java)
+6. 
    
